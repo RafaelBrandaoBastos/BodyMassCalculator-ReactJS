@@ -1,8 +1,8 @@
 # Body Mass Index Calculator
 
-Calculate the BMI or IMC in portuguese with your weight in *kg and height in *meters.
+<p>Calculate the BMI or IMC in portuguese with your weight in *kg and height in *meters.</p>
 https://challange-icm.netlify.app/
-BMI = W / (H * H)
+<p>BMI = W / (H * H)</p>
 
 ## Prints
 

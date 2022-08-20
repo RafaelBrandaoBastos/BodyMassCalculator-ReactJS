@@ -6,6 +6,6 @@
 
 ## Prints
 
-In the project directory, you can run:
+Refuses to Calculate Without Width and Height Bigger than 1
 <img src="src/assets/IMC 1.png">
 <img src="src/assets/IMC 2.png">
